@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lloydcaesar
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning c++ 
+- 📫 How to reach me caesarlloydbricenio@gmail.com or https://www.facebook.com/lc.bricenio/
+- =======      I have 0% in coding just started learning Oct 11 2021      =======
